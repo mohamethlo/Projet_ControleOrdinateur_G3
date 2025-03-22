@@ -518,3 +518,23 @@ commands.log
 mysql-connector-j-8.4.0.jar
 
 /127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G3/serveur
+
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | whoami | lo-mohameth\mohameth
+
+/127.0.0.1 | del  | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | shutdown | Commande interdite pour des raisons de sécurité.

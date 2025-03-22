@@ -30,6 +30,7 @@ public class ClientGUI extends JFrame
         quitButton.addActionListener(e -> clientConnection.disconnect());
     }
 
+    // Methode qui permet d'initialiser les composants 
     private void initUI() 
     {
         JPanel mainPanel = new JPanel(new BorderLayout());
