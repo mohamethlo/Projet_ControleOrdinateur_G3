@@ -1,0 +1,520 @@
+[2025-03-11 19:02:20] /127.0.0.1 > ls
+Client.class
+Client.java
+ClientHandler.class
+Conversation.class
+Serveur.class
+Serveur.java
+
+--------------------------------------------------
+[2025-03-11 19:02:29] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+--------------------------------------------------
+[2025-03-11 19:02:43] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+--------------------------------------------------
+[2025-03-11 19:03:00] /127.0.0.1 > notepas command.log
+ERREUR : 'notepas' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+--------------------------------------------------
+[2025-03-11 21:11:13] /127.0.0.1 > ls
+Client.class
+Client.java
+ClientHandler.class
+Conversation.class
+Serveur.class
+Serveur.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:11:24] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:11:55] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > GET / HTTP/1.1
+ERREUR : 'GET' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Host: 192.168.43.76:5000
+ERREUR : 'Host:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > GET / HTTP/1.1
+ERREUR : 'GET' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > User-Agent: Avast Antivirus
+ERREUR : 'User-Agent:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Host: 192.168.43.76:5000
+ERREUR : 'Host:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Accept: */*
+ERREUR : 'Accept:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > User-Agent: Avast Antivirus
+ERREUR : 'User-Agent:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Accept-Encoding: deflate, gzip
+ERREUR : 'Accept-Encoding:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Accept: */*
+ERREUR : 'Accept:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > 
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > Accept-Encoding: deflate, gzip
+ERREUR : 'Accept-Encoding:' n'est pas reconnu en tant que commande interne
+ERREUR : ou externe, un programme ex�cutable ou un fichier de commandes.
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:12:17] /192.168.43.76 > 
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:16:45] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:16:54] /127.0.0.1 > ls
+Client.class
+Client.java
+ClientHandler.class
+Conversation.class
+Serveur.class
+Serveur.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-11 21:17:02] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-12 00:26:23] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-12 00:26:44] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-12 00:57:40] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-12 00:57:58] /127.0.0.1 > ls
+Client.class
+Client.java
+ClientHandler.class
+Conversation.class
+Serveur.class
+Serveur.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-12 18:44:37] /127.0.0.1 > ls
+Client.class
+Client.java
+ClientHandler.class
+Conversation.class
+Serveur.class
+Serveur.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-12 18:44:41] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-12 18:44:55] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-14 00:24:38] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-14 00:24:42] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:10:32] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:10:42] /127.0.0.1 > del
+Commande interdite pour des raisons de sécurité.
+-----------------------------------------------------------------------------------
+[2025-03-14 09:10:54] /127.0.0.1 > le
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:10:58] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:25:30] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:25:33] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-14 09:25:35] /127.0.0.1 > del
+Commande interdite pour des raisons de sécurité.
+-----------------------------------------------------------------------------------
+[2025-03-15 03:15:11] /127.0.0.1 > hello
+
+-----------------------------------------------------------------------------------
+[2025-03-15 03:15:19] /127.0.0.1 > pdw
+
+-----------------------------------------------------------------------------------
+[2025-03-15 03:15:31] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 03:15:39] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 03:15:44] /127.0.0.1 > del
+Commande interdite pour des raisons de sécurité.
+-----------------------------------------------------------------------------------
+[2025-03-15 05:11:59] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 12:13:29] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 12:13:32] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 12:13:37] /127.0.0.1 > hello
+
+-----------------------------------------------------------------------------------
+[2025-03-15 12:37:20] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 12:37:23] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 13:09:44] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 13:09:47] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 15:25:11] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 15:25:13] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+hs_err_pid22068.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 15:25:19] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-15 15:25:23] /127.0.0.1 > del
+Commande interdite pour des raisons de sécurité.
+-----------------------------------------------------------------------------------
+[2025-03-15 16:39:38] /127.0.0.1 > pwd
+/d/M1 ESP/S1/Projet Examen/Projet_ControleOrdinateur_Gx
+
+-----------------------------------------------------------------------------------
+[2025-03-15 16:39:46] /127.0.0.1 > whoami
+lo-mohameth\mohameth
+
+-----------------------------------------------------------------------------------
+[2025-03-15 16:39:49] /127.0.0.1 > ls
+Client.java
+ClientGUI.class
+ClientGUI.java
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI$ClientHandler.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+hs_err_pid22068.log
+mysql-connector-j-8.4.0.jar
+
+-----------------------------------------------------------------------------------
+[2025-03-15 16:39:52] /127.0.0.1 > del
+Commande interdite pour des raisons de sécurité.
+-----------------------------------------------------------------------------------
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G/serveur
+
+/127.0.0.1 | whoami | lo-mohameth\mohameth
+
+/127.0.0.1 | ls | ClientHandler.class
+ClientHandler.java
+DatabaseManager.class
+DatabaseManager.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | sjfhduidf | 
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G/serveur
+
+/127.0.0.1 | ls | ClientHandler.class
+ClientHandler.java
+DatabaseManager.class
+DatabaseManager.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G8/serveur
+
+/127.0.0.1 | whoami | lo-mohameth\mohameth
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G8/serveur
+
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | jdhsd | 
+/127.0.0.1 | whoami | lo-mohameth\mohameth
+
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G8/serveur
+
+/127.0.0.1 | whoami | lo-mohameth\mohameth
+
+/127.0.0.1 | ipconfig | 
+Configuration IP de Windows
+
+
+Carte r�seau sans fil Connexion au r�seau local* 1�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+
+Carte r�seau sans fil Connexion au r�seau local* 2�:
+
+   Statut du m�dia. . . . . . . . . . . . : M�dia d�connect�
+   Suffixe DNS propre � la connexion. . . : 
+
+Carte Ethernet VMware Network Adapter VMnet1 :
+
+   Suffixe DNS propre � la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::1958:9e67:9c12:55d4%12
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.21.1
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Passerelle par d�faut. . . .�. . . . . : 
+
+Carte Ethernet VMware Network Adapter VMnet8 :
+
+   Suffixe DNS propre � la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::9509:61c0:13bc:6f9c%15
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.10.1
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Passerelle par d�faut. . . .�. . . . . : 
+
+Carte r�seau sans fil Wi-Fi�:
+
+   Suffixe DNS propre � la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::f4f5:a81a:8c:7f35%22
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.43.76
+   Masque de sous-r�seau. . . .�. . . . . : 255.255.255.0
+   Passerelle par d�faut. . . .�. . . . . : 192.168.43.1
+
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G8/serveur
+
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | shutdow | 
+/127.0.0.1 | shutdown | Commande interdite pour des raisons de sécurité.
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G3/serveur
+
+/127.0.0.1 | pwd | /d/M1 ESP/S1/Projet Examen/A_Rendre/Projet_ControleOrdinateur_G3/serveur
+
+/127.0.0.1 | ls | ConnectionBD.class
+ConnectionBD.java
+ConversationClient.class
+ConversationClient.java
+Serveur.class
+Serveur.java
+ServeurGUI$1.class
+ServeurGUI.class
+ServeurGUI.java
+TestServeur.class
+TestServeur.java
+commands.log
+mysql-connector-j-8.4.0.jar
+
+/127.0.0.1 | del | Commande interdite pour des raisons de sécurité.
