@@ -71,6 +71,8 @@ Ce projet est une application client-serveur permettant à un client de se conne
    ```
 2. L'interface serveur s'affiche, en attente de connexions.
 
+   ![Image](https://github.com/user-attachments/assets/bf642dc4-bb7f-4e2d-9698-6ede8a5a76c8)
+
 ### **Lancer le client**
 
 1. Compiler et exécuter :
