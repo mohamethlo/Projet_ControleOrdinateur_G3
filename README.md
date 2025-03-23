@@ -57,7 +57,8 @@ Ce projet est une application client-serveur permettant à un client de se conne
    - Créez une table `clients` avec `username` et `password`.
    - Insérez des utilisateurs dans la table.
 
-2. \*\*Modifier \*\***`ConnectionBD.java`**
+2. **Modifier**
+**`ConnectionBD.java`**
 
    ```java
    private final String url = "jdbc:mysql://localhost:3306/ordinateur_distant";
