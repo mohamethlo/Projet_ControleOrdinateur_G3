@@ -116,7 +116,7 @@ public class ConversationClient implements Runnable
         return output.toString();
     }
 
-    // Methode qui permet d'authentifier les clients
+    // Methode qui permet d'envoyer des instructions d'authentification au client
     private boolean authentifierClient(BufferedReader in, PrintWriter out) throws IOException 
     {
         out.println("Veuillez entrer votre nom d'utilisateur :");
