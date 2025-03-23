@@ -3,7 +3,7 @@
 Ce projet est une application client-serveur permettant à un client de se connecter à un serveur, de s'authentifier et d'exécuter des commandes à distance. Le serveur gère les connexions, authentifie les clients et enregistre les commandes exécutées dans un fichier de logs.
 
 
-## **Fonctionnalités**
+## Fonctionnalités
 
 ### **Côté Client**
 
