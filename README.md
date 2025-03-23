@@ -1,14 +1,14 @@
-# **Projet de Gestion de Connexion Client-Serveur**
+# Projet de Gestion de Connexion Client-Serveur
 
 Ce projet est une application client-serveur permettant à un client de se connecter à un serveur, de s'authentifier et d'exécuter des commandes à distance. Le serveur gère les connexions, authentifie les clients et enregistre les commandes exécutées dans un fichier de logs.
 
 
 ## Fonctionnalités
 
-### **Côté Client**
+### Côté Client
 
-- **Authentification** : Connexion sécurisée avec nom d'utilisateur et mot de passe.
-- **Envoi de commandes** : Exécution de commandes sur le serveur.
+- Authentification : Connexion sécurisée avec nom d'utilisateur et mot de passe.
+- Envoi de commandes : Exécution de commandes sur le serveur.
 - **Interface graphique** : Saisie de commandes et affichage des résultats en GUI.
 
 ### **Côté Serveur**
