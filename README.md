@@ -7,19 +7,17 @@ Ce projet est une application client-serveur permettant à un client de se conne
 
 ### Côté Client
 
-- Authentification : Connexion sécurisée avec nom d'utilisateur et mot de passe.
-- Envoi de commandes : Exécution de commandes sur le serveur.
+- **Authentification** : Connexion sécurisée avec nom d'utilisateur et mot de passe.
+- **Envoi de commandes** : Exécution de commandes sur le serveur.
 - **Interface graphique** : Saisie de commandes et affichage des résultats en GUI.
 
-### **Côté Serveur**
+### Côté Serveur
 
 - **Gestion des connexions** : Accepte et gère plusieurs clients simultanément.
 - **Authentification** : Vérification des identifiants via une base de données.
 - **Exécution des commandes** : Traitement et retour des résultats aux clients.
 - **Journalisation** : Enregistrement des commandes exécutées avec IP et timestamp.
 - **Interface graphique** : Affichage des logs et gestion des connexions.
-
----
 
 ## **Structure du projet**
 
@@ -69,8 +67,7 @@ Ce projet est une application client-serveur permettant à un client de se conne
 
 1. Compiler et exécuter :
    ```bash
-   javac TestServeur.java
-   java TestServeur
+   cls && javac -cp ".;lib/" TestServeur.java && java -cp ".;lib/" TestServeur : commande qui permet d'executer le serveur
    ```
 2. L'interface serveur s'affiche, en attente de connexions.
 
@@ -78,8 +75,7 @@ Ce projet est une application client-serveur permettant à un client de se conne
 
 1. Compiler et exécuter :
    ```bash
-   javac TestClient.java
-   java TestClient
+   cls && javac TestClient.java && java TestClient : commande qui permet d'executer le client
    ```
 2. L'interface client s'affiche. Saisissez vos identifiants pour vous connecter.
 
@@ -103,7 +99,6 @@ Ce projet est une application client-serveur permettant à un client de se conne
 
 - Toutes les commandes exécutées sont enregistrées dans `commands.log`.
 
----
 
 ## **Technologies utilisées**
 
@@ -113,7 +108,6 @@ Ce projet est une application client-serveur permettant à un client de se conne
 - **JDBC** : Connexion entre Java et MySQL
 
 
----
 
 ## **Licence**
 
