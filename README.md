@@ -39,7 +39,6 @@ Ce projet est une application client-serveur permettant à un client de se conne
 - `ConnectionBD.java` : Gestion de l'authentification via MySQL.
 - `TestServeur.java` : Point d'entrée du serveur.
 
----
 
 ## **Installation et utilisation**
 
@@ -108,11 +107,6 @@ Ce projet est une application client-serveur permettant à un client de se conne
 - **MySQL** : Base de données
 - **JDBC** : Connexion entre Java et MySQL
 
-
-
-## **Licence**
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 
 
