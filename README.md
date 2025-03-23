@@ -80,8 +80,9 @@ Ce projet est une application client-serveur permettant à un client de se conne
    cls && javac TestClient.java && java TestClient : commande qui permet d'executer le client
    ```
 2. L'interface client s'affiche. Saisissez vos identifiants pour vous connecter.
+   
+   ![Image](https://github.com/user-attachments/assets/25aa13ee-8636-4d5d-87d8-04f39b63c3d1)
 
----
 
 ## **Exemples d'utilisation**
 
